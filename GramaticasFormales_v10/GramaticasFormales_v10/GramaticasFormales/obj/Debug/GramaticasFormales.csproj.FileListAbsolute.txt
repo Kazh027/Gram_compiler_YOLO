@@ -1,0 +1,133 @@
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales\GramaticasFormales\bin\Debug\GramaticasFormales.exe.config
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales\GramaticasFormales\bin\Debug\GramaticasFormales.exe
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales\GramaticasFormales\bin\Debug\GramaticasFormales.pdb
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales\GramaticasFormales\obj\Debug\GramaticasFormales.csprojResolveAssemblyReference.cache
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales\GramaticasFormales\obj\Debug\GramaticasFormales.Form1.resources
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales\GramaticasFormales\obj\Debug\GramaticasFormales.Properties.Resources.resources
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales\GramaticasFormales\obj\Debug\GramaticasFormales.csproj.GenerateResource.Cache
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales\GramaticasFormales\obj\Debug\GramaticasFormales.csproj.CoreCompileInputs.cache
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales\GramaticasFormales\obj\Debug\GramaticasFormales.exe
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales\GramaticasFormales\obj\Debug\GramaticasFormales.pdb
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v2\GramaticasFormales\bin\Debug\GramaticasFormales.exe.config
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v2\GramaticasFormales\bin\Debug\GramaticasFormales.exe
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v2\GramaticasFormales\bin\Debug\GramaticasFormales.pdb
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v2\GramaticasFormales\obj\Debug\GramaticasFormales.csprojResolveAssemblyReference.cache
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v2\GramaticasFormales\obj\Debug\GramaticasFormales.Form1.resources
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v2\GramaticasFormales\obj\Debug\GramaticasFormales.Properties.Resources.resources
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v2\GramaticasFormales\obj\Debug\GramaticasFormales.csproj.GenerateResource.Cache
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v2\GramaticasFormales\obj\Debug\GramaticasFormales.csproj.CoreCompileInputs.cache
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v2\GramaticasFormales\obj\Debug\GramaticasFormales.exe
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v2\GramaticasFormales\obj\Debug\GramaticasFormales.pdb
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v3\GramaticasFormales\bin\Debug\GramaticasFormales.exe.config
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v3\GramaticasFormales\bin\Debug\GramaticasFormales.exe
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v3\GramaticasFormales\bin\Debug\GramaticasFormales.pdb
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v3\GramaticasFormales\obj\Debug\GramaticasFormales.csprojResolveAssemblyReference.cache
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v3\GramaticasFormales\obj\Debug\GramaticasFormales.Form1.resources
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v3\GramaticasFormales\obj\Debug\GramaticasFormales.Properties.Resources.resources
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v3\GramaticasFormales\obj\Debug\GramaticasFormales.csproj.GenerateResource.Cache
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v3\GramaticasFormales\obj\Debug\GramaticasFormales.csproj.CoreCompileInputs.cache
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v3\GramaticasFormales\obj\Debug\GramaticasFormales.exe
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v3\GramaticasFormales\obj\Debug\GramaticasFormales.pdb
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v4\GramaticasFormales\bin\Debug\GramaticasFormales.exe.config
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v4\GramaticasFormales\bin\Debug\GramaticasFormales.exe
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v4\GramaticasFormales\bin\Debug\GramaticasFormales.pdb
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v4\GramaticasFormales\obj\Debug\GramaticasFormales.csprojResolveAssemblyReference.cache
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v4\GramaticasFormales\obj\Debug\GramaticasFormales.Form1.resources
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v4\GramaticasFormales\obj\Debug\GramaticasFormales.Properties.Resources.resources
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v4\GramaticasFormales\obj\Debug\GramaticasFormales.csproj.GenerateResource.Cache
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v4\GramaticasFormales\obj\Debug\GramaticasFormales.csproj.CoreCompileInputs.cache
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v4\GramaticasFormales\obj\Debug\GramaticasFormales.exe
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v4\GramaticasFormales\obj\Debug\GramaticasFormales.pdb
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v5\GramaticasFormales\bin\Debug\GramaticasFormales.exe.config
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v5\GramaticasFormales\bin\Debug\GramaticasFormales.exe
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v5\GramaticasFormales\bin\Debug\GramaticasFormales.pdb
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v5\GramaticasFormales\obj\Debug\GramaticasFormales.csprojResolveAssemblyReference.cache
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v5\GramaticasFormales\obj\Debug\GramaticasFormales.Form1.resources
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v5\GramaticasFormales\obj\Debug\GramaticasFormales.Properties.Resources.resources
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v5\GramaticasFormales\obj\Debug\GramaticasFormales.csproj.GenerateResource.Cache
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v5\GramaticasFormales\obj\Debug\GramaticasFormales.csproj.CoreCompileInputs.cache
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v5\GramaticasFormales\obj\Debug\GramaticasFormales.exe
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v5\GramaticasFormales\obj\Debug\GramaticasFormales.pdb
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v6\GramaticasFormales\bin\Debug\GramaticasFormales.exe.config
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v6\GramaticasFormales\bin\Debug\GramaticasFormales.exe
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v6\GramaticasFormales\bin\Debug\GramaticasFormales.pdb
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v6\GramaticasFormales\obj\Debug\GramaticasFormales.csprojResolveAssemblyReference.cache
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v6\GramaticasFormales\obj\Debug\GramaticasFormales.Form1.resources
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v6\GramaticasFormales\obj\Debug\GramaticasFormales.Properties.Resources.resources
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v6\GramaticasFormales\obj\Debug\GramaticasFormales.csproj.GenerateResource.Cache
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v6\GramaticasFormales\obj\Debug\GramaticasFormales.csproj.CoreCompileInputs.cache
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v6\GramaticasFormales\obj\Debug\GramaticasFormales.exe
+C:\Users\Usuari\Documents\Semestre VII\Compiladores A\GramaticasFormales_v6\GramaticasFormales\obj\Debug\GramaticasFormales.pdb
+E:\GramaticasFormales_v7\GramaticasFormales\bin\Debug\GramaticasFormales.exe.config
+E:\GramaticasFormales_v7\GramaticasFormales\obj\Debug\GramaticasFormales.exe
+E:\GramaticasFormales_v7\GramaticasFormales\obj\Debug\GramaticasFormales.pdb
+E:\GramaticasFormales_v7\GramaticasFormales\bin\Debug\GramaticasFormales.exe
+E:\GramaticasFormales_v7\GramaticasFormales\bin\Debug\GramaticasFormales.pdb
+E:\GramaticasFormales_v7\GramaticasFormales\obj\Debug\GramaticasFormales.csprojResolveAssemblyReference.cache
+E:\GramaticasFormales_v7\GramaticasFormales\obj\Debug\GramaticasFormales.Form1.resources
+E:\GramaticasFormales_v7\GramaticasFormales\obj\Debug\GramaticasFormales.Properties.Resources.resources
+E:\GramaticasFormales_v7\GramaticasFormales\obj\Debug\GramaticasFormales.csproj.GenerateResource.Cache
+C:\Users\Blanca\Documents\GramaticasFormales_v7\GramaticasFormales\bin\Debug\GramaticasFormales.exe.config
+C:\Users\Blanca\Documents\GramaticasFormales_v7\GramaticasFormales\obj\Debug\GramaticasFormales.exe
+C:\Users\Blanca\Documents\GramaticasFormales_v7\GramaticasFormales\obj\Debug\GramaticasFormales.pdb
+C:\Users\Blanca\Documents\GramaticasFormales_v7\GramaticasFormales\bin\Debug\GramaticasFormales.exe
+C:\Users\Blanca\Documents\GramaticasFormales_v7\GramaticasFormales\bin\Debug\GramaticasFormales.pdb
+C:\Users\Blanca\Documents\GramaticasFormales_v7\GramaticasFormales\obj\Debug\GramaticasFormales.csprojResolveAssemblyReference.cache
+C:\Users\Blanca\Documents\GramaticasFormales_v7\GramaticasFormales\obj\Debug\GramaticasFormales.Form1.resources
+C:\Users\Blanca\Documents\GramaticasFormales_v7\GramaticasFormales\obj\Debug\GramaticasFormales.Properties.Resources.resources
+C:\Users\Blanca\Documents\GramaticasFormales_v7\GramaticasFormales\obj\Debug\GramaticasFormales.csproj.GenerateResource.Cache
+C:\Users\Usuari\Desktop\GramaticasFormales_v8\GramaticasFormales_v7\GramaticasFormales\obj\Debug\GramaticasFormales.csprojResolveAssemblyReference.cache
+C:\Users\Usuari\Desktop\GramaticasFormales_v8\GramaticasFormales_v7\GramaticasFormales\obj\Debug\GramaticasFormales.Form1.resources
+C:\Users\Usuari\Desktop\GramaticasFormales_v8\GramaticasFormales_v7\GramaticasFormales\obj\Debug\GramaticasFormales.Properties.Resources.resources
+C:\Users\Usuari\Desktop\GramaticasFormales_v8\GramaticasFormales_v7\GramaticasFormales\obj\Debug\GramaticasFormales.csproj.GenerateResource.Cache
+C:\Users\Usuari\Desktop\GramaticasFormales_v8\GramaticasFormales_v7\GramaticasFormales\obj\Debug\GramaticasFormales.csproj.CoreCompileInputs.cache
+C:\Users\Usuari\Desktop\GramaticasFormales_v8\GramaticasFormales_v7\GramaticasFormales\obj\Debug\GramaticasFormales.exe
+C:\Users\Usuari\Desktop\GramaticasFormales_v8\GramaticasFormales_v7\GramaticasFormales\obj\Debug\GramaticasFormales.pdb
+C:\Users\Usuari\Desktop\GramaticasFormales_v8\GramaticasFormales_v7\GramaticasFormales\bin\Debug\GramaticasFormales.exe
+C:\Users\Usuari\Desktop\GramaticasFormales_v8\GramaticasFormales_v7\GramaticasFormales\bin\Debug\GramaticasFormales.pdb
+C:\Users\Usuari\Desktop\GramaticasFormales_v8\GramaticasFormales_v7\GramaticasFormales\bin\Debug\Shields.GraphViz.dll
+C:\Users\Usuari\Desktop\GramaticasFormales_v8\GramaticasFormales_v7\GramaticasFormales\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Usuari\Desktop\GramaticasFormales_v8\GramaticasFormales_v7\GramaticasFormales\bin\Debug\Shields.GraphViz.xml
+C:\Users\Usuari\Desktop\GramaticasFormales_v8\GramaticasFormales_v7\GramaticasFormales\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Usuari\Desktop\GramaticasFormales_v8\GramaticasFormales_v7\GramaticasFormales\obj\Debug\GramaticasFormales.ImgShow.resources
+E:\GramaticasFormales_v9\GramaticasFormales_v7\GramaticasFormales\obj\Debug\GramaticasFormales.exe
+E:\GramaticasFormales_v9\GramaticasFormales_v7\GramaticasFormales\obj\Debug\GramaticasFormales.pdb
+E:\GramaticasFormales_v9\GramaticasFormales_v7\GramaticasFormales\bin\Debug\GramaticasFormales.exe
+E:\GramaticasFormales_v9\GramaticasFormales_v7\GramaticasFormales\bin\Debug\GramaticasFormales.pdb
+E:\GramaticasFormales_v9\GramaticasFormales_v7\GramaticasFormales\bin\Debug\Shields.GraphViz.dll
+E:\GramaticasFormales_v9\GramaticasFormales_v7\GramaticasFormales\bin\Debug\System.Collections.Immutable.dll
+E:\GramaticasFormales_v9\GramaticasFormales_v7\GramaticasFormales\bin\Debug\Shields.GraphViz.xml
+E:\GramaticasFormales_v9\GramaticasFormales_v7\GramaticasFormales\bin\Debug\System.Collections.Immutable.xml
+E:\GramaticasFormales_v9\GramaticasFormales_v7\GramaticasFormales\obj\Debug\GramaticasFormales.csprojResolveAssemblyReference.cache
+E:\GramaticasFormales_v9\GramaticasFormales_v7\GramaticasFormales\obj\Debug\GramaticasFormales.Form1.resources
+E:\GramaticasFormales_v9\GramaticasFormales_v7\GramaticasFormales\obj\Debug\GramaticasFormales.ImgShow.resources
+E:\GramaticasFormales_v9\GramaticasFormales_v7\GramaticasFormales\obj\Debug\GramaticasFormales.Properties.Resources.resources
+E:\GramaticasFormales_v9\GramaticasFormales_v7\GramaticasFormales\obj\Debug\GramaticasFormales.csproj.GenerateResource.Cache
+F:\GramaticasFormales_v9\GramaticasFormales_v7\GramaticasFormales\bin\Debug\GramaticasFormales.exe
+F:\GramaticasFormales_v9\GramaticasFormales_v7\GramaticasFormales\bin\Debug\GramaticasFormales.pdb
+F:\GramaticasFormales_v9\GramaticasFormales_v7\GramaticasFormales\bin\Debug\Shields.GraphViz.dll
+F:\GramaticasFormales_v9\GramaticasFormales_v7\GramaticasFormales\bin\Debug\System.Collections.Immutable.dll
+F:\GramaticasFormales_v9\GramaticasFormales_v7\GramaticasFormales\bin\Debug\Shields.GraphViz.xml
+F:\GramaticasFormales_v9\GramaticasFormales_v7\GramaticasFormales\bin\Debug\System.Collections.Immutable.xml
+F:\GramaticasFormales_v9\GramaticasFormales_v7\GramaticasFormales\obj\Debug\GramaticasFormales.csprojResolveAssemblyReference.cache
+F:\GramaticasFormales_v9\GramaticasFormales_v7\GramaticasFormales\obj\Debug\GramaticasFormales.Form1.resources
+F:\GramaticasFormales_v9\GramaticasFormales_v7\GramaticasFormales\obj\Debug\GramaticasFormales.ImgShow.resources
+F:\GramaticasFormales_v9\GramaticasFormales_v7\GramaticasFormales\obj\Debug\GramaticasFormales.Properties.Resources.resources
+F:\GramaticasFormales_v9\GramaticasFormales_v7\GramaticasFormales\obj\Debug\GramaticasFormales.csproj.GenerateResource.Cache
+F:\GramaticasFormales_v9\GramaticasFormales_v7\GramaticasFormales\obj\Debug\GramaticasFormales.csproj.CoreCompileInputs.cache
+F:\GramaticasFormales_v9\GramaticasFormales_v7\GramaticasFormales\obj\Debug\GramaticasFormales.exe
+F:\GramaticasFormales_v9\GramaticasFormales_v7\GramaticasFormales\obj\Debug\GramaticasFormales.pdb
+C:\Users\Usuari\Desktop\GramaticasFormales_v9\GramaticasFormales_v7\GramaticasFormales\bin\Debug\GramaticasFormales.exe
+C:\Users\Usuari\Desktop\GramaticasFormales_v9\GramaticasFormales_v7\GramaticasFormales\bin\Debug\GramaticasFormales.pdb
+C:\Users\Usuari\Desktop\GramaticasFormales_v9\GramaticasFormales_v7\GramaticasFormales\bin\Debug\Shields.GraphViz.dll
+C:\Users\Usuari\Desktop\GramaticasFormales_v9\GramaticasFormales_v7\GramaticasFormales\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Usuari\Desktop\GramaticasFormales_v9\GramaticasFormales_v7\GramaticasFormales\bin\Debug\Shields.GraphViz.xml
+C:\Users\Usuari\Desktop\GramaticasFormales_v9\GramaticasFormales_v7\GramaticasFormales\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Usuari\Desktop\GramaticasFormales_v9\GramaticasFormales_v7\GramaticasFormales\obj\Debug\GramaticasFormales.csprojResolveAssemblyReference.cache
+C:\Users\Usuari\Desktop\GramaticasFormales_v9\GramaticasFormales_v7\GramaticasFormales\obj\Debug\GramaticasFormales.Form1.resources
+C:\Users\Usuari\Desktop\GramaticasFormales_v9\GramaticasFormales_v7\GramaticasFormales\obj\Debug\GramaticasFormales.ImgShow.resources
+C:\Users\Usuari\Desktop\GramaticasFormales_v9\GramaticasFormales_v7\GramaticasFormales\obj\Debug\GramaticasFormales.Properties.Resources.resources
+C:\Users\Usuari\Desktop\GramaticasFormales_v9\GramaticasFormales_v7\GramaticasFormales\obj\Debug\GramaticasFormales.csproj.GenerateResource.Cache
+C:\Users\Usuari\Desktop\GramaticasFormales_v9\GramaticasFormales_v7\GramaticasFormales\obj\Debug\GramaticasFormales.csproj.CoreCompileInputs.cache
+C:\Users\Usuari\Desktop\GramaticasFormales_v9\GramaticasFormales_v7\GramaticasFormales\obj\Debug\GramaticasFormales.exe
+C:\Users\Usuari\Desktop\GramaticasFormales_v9\GramaticasFormales_v7\GramaticasFormales\obj\Debug\GramaticasFormales.pdb
